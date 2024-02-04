@@ -55,13 +55,13 @@ I'm a Full Stack Developer based on Recife, Brazil.
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
-    <a href="https://github.com/Daedaluzz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daedaluzz&theme=tokyonight&hide_border=true"  width="520" alt="Amardeep Kesharwani"/></a>
+    <a href="https://github.com/Daedaluzz"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daedaluzz&theme=tokyonight&hide"  width="520" alt="Amardeep Kesharwani"/></a>
 <a href="https://github.com/Daedaluzz"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daedaluzz&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Daedaluzz"/></a>
 </p>
 
 -----
 
-## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"><b>Let's Connect!</b>
 
 <a href="https://www.linkedin.com/in/ber-arthur/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" t=instagram style="margin-bottom: 5px;" />
