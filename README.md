@@ -10,7 +10,7 @@ I'm a Full Stack Developer based on Recife, Brazil.
 
 - A passionate Full-Stack Developer specialized on the Front-end side
 - Formely a Graphic Designer
-- Currently learning Web Development by Self
+- Currently improving Web Development by Self
 - Committed to achieving excellence in leadership
 - Open to receiving constructive feedback and diverse viewpoints.
 
