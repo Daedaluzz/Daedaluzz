@@ -23,7 +23,7 @@ Software Engineer and Full Stack Developer with 3+ years of experience deliverin
 
 ## 📌 Focus Areas
 
-- Advanced studies and hands-on experimentation with Artificial Intelligence and Large Language Models (LLMs)  
+- Advanced studies and hands-on experimentation with Artificial Intelligence, Large Language Models (LLMs), Multimodal models and advanced AI agents  
 - Full stack web development with emphasis on scalable cloud architectures  
 - Frontend design systems and user experience optimization  
 - Agile methodologies and technical leadership
