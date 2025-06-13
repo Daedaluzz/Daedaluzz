@@ -65,6 +65,7 @@ Technical Leadership · Clear Communication · Problem Solving · Initiative · 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daedaluzz&theme=github_dark" width="520" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daedaluzz&layout=compact&theme=github_dark&langs_count=6" width="320" />
 </p>
 
 ---
