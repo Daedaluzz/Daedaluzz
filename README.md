@@ -1,7 +1,7 @@
 <h1 align="center">Arthur Bernard Pereira Freitas</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · Designer · Storyteller · Tech Entrepreneur</strong><br>
+  <strong>Software Engineer · Full Stack Developer · Designer · Storyteller · ArtTech Entrepreneur</strong><br>
   Recife, Brazil · <a href="mailto:arthurbernardpereira@gmail.com">arthurbernardpereira@gmail.com</a>
 </p>
 
