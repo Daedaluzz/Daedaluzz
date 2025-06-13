@@ -11,7 +11,7 @@
 
 I'm a Full Stack Developer and Software Engineer with 3+ years of experience in high-performance environments, building robust, user-focused applications across sectors like agritech, education, and cultural innovation.
 
-I blend technology, storytelling, and design to deliver scalable digital products with strong architecture and engaging user experience. I’m comfortable leading teams, making technical decisions, and bridging tech and design.
+I blend technology, storytelling, and design to deliver scalable digital products with strong architecture and engaging user experience. I’m comfortable leading teams, making technical decisions, and bridging tech and design.    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daedaluzz&layout=compact&theme=github_dark&langs_count=6" width="320" />
 
 ---
 
@@ -65,7 +65,6 @@ Technical Leadership · Clear Communication · Problem Solving · Initiative · 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daedaluzz&theme=github_dark" width="520" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daedaluzz&layout=compact&theme=github_dark&langs_count=6" width="320" />
 </p>
 
 ---
