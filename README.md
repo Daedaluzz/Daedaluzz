@@ -1,80 +1,83 @@
-<h1 align="center">Arthur Bernard Pereira Freitas</h1>
-
-<p align="center">
-  <strong>Software Engineer · Full Stack Developer · Designer · Storyteller · ArtTech Entrepreneur</strong><br>
-  Recife, Brazil · <a href="mailto:arthurbernardpereira@gmail.com">arthurbernardpereira@gmail.com</a>
-</p>
+# Arthur Bernard Pereira Freitas  
+**AI Engineer — Supervised Fine-Tuning & RLHF @ Scale AI**  
+[LinkedIn](https://linkedin.com/in/ber-arthur) · [GitHub](https://github.com/Daedaluzz) · [Email](mailto:arthurbernardpereira@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Full Stack Developer and Software Engineer with 3+ years of experience in high-performance environments, building robust, user-focused applications across sectors like agritech, education, and cultural innovation.
+I'm an AI Engineer and technical founder working to shape the future of large language models and AI-driven cultural tools. With a background in full-stack development and experience across data pipelines, model evaluation, and applied GenAI, I bring a pragmatic engineering mindset to frontier-level machine learning.
 
-I blend technology, storytelling, and design to deliver scalable digital products with strong architecture and engaging user experience. I’m comfortable leading teams, making technical decisions, and bridging tech and design.
+Outside of work, I'm a passionate runner, strength trainer, visual artist, and writer. I believe that discipline, creativity, and clear thinking are transferable across domains — whether in code, canvas, or conversation.
 
----
+My long-term mission is to become a **leading example of what's possible through focus, work ethic, and curiosity**. I strive to **help and inspire others** — especially underrepresented creators and technologists — to pursue bold, ambitious goals.
 
-## 🎯 Professional Summary
-
-Software Engineer and Full Stack Developer with 3+ years of experience delivering scalable, user-centric applications across agritech, education, and cultural sectors. Skilled in Java, Spring Boot, React, Next.js, and AWS, with a proven track record leading teams and making architectural decisions in startup environments. Passionate about integrating technology, design, and storytelling to create impactful digital solutions.
+I’m also a highly communicative professional: I love meaningful conversations, building deep connections, and speaking in public. Whether in a 1:1, a team sync, or on stage, I bring clarity, energy, and an authentic desire to share knowledge.
 
 ---
 
-## 📌 Focus Areas
+## Current Engagements
 
-- Advanced studies and hands-on experimentation with Artificial Intelligence, Large Language Models (LLMs), Multimodal models and advanced AI agents  
-- Full stack web development with emphasis on scalable cloud architectures  
-- Frontend design systems and user experience optimization  
-- Agile methodologies and technical leadership
+### 🔹 Scale AI / Outlier.ai — *AI Engineer (LLM Alignment & Evaluation)*  
+*2025 – Present*  
+- Invited to contribute to instruction-tuning and alignment projects.  
+- Generate and evaluate supervised fine-tuning (SFT) data and adversarial prompts.  
+- Rank and score completions for RLHF pipelines with focus on robustness and safety.  
+- Identify edge cases and optimize annotation consistency across diverse task types.
 
----
-
-## 🏗️ Currently Building
-
-Co-founder and CTO at ArtEsfera, a startup leveraging AI and Big Data to empower the cultural and creative sectors. Leading product development, technology strategy, and team collaboration to build innovative platforms that connect artists, audiences, and data-driven insights.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**  
-Java · C# · TypeScript · JavaScript · HTML5 · CSS3
-
-**Frameworks & Libraries**  
-Spring Boot · .NET Core · React · Next.js · Angular · Node.js · Zustand · Tailwind CSS · Styled Components
-
-**Cloud & DevOps**  
-AWS (EC2, S3, Lambda, IAM, RDS) · Docker · Kubernetes · Vercel · Azure · CI/CD pipelines
-
-**Databases**  
-PostgreSQL · MySQL · MongoDB · Firebase
-
-**Design Tools**  
-Figma · Adobe Photoshop · Illustrator · After Effects · Motion & Web Design
+### 🔹 ArtEsfera — *Founder & Technical Lead*  
+*2023 – Present*  
+- Leading the design and implementation of cultural AI systems with a focus on generative pipelines for visual and textual content.  
+- Architecting a modular RAG infrastructure and cloud-native LLM deployment strategy for agents tailored to artists and creative institutions.  
+- Overseeing model evaluation workflows and data curation for style analysis, contract parsing, and creative market intelligence.
 
 ---
 
-## 💡 Soft Skills
+## Areas of Focus
 
-Technical Leadership · Clear Communication · Problem Solving · Initiative · Empathy · Curiosity · Results-Driven · Team Collaboration
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daedaluzz&theme=github_dark" width="520" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daedaluzz&layout=compact&theme=github_dark&langs_count=6" />
-</p>
+- **LLM Evaluation & Alignment**: Model behavior testing, scoring, adversarial prompt design.  
+- **Supervised Fine-Tuning Pipelines**: High-quality data creation, iterative completion review.  
+- **RLHF & Reward Models**: Ranking outputs, identifying outliers, annotation strategy.  
+- **Front-End for AI Systems**: React/Next.js interfaces for model visualization & interaction.  
+- **Infrastructure for ML Ops**: Cloud deployment, CI/CD, data access layers, monitoring.
 
 ---
 
-## 🤝 Let's Connect
+## Technical Competencies
 
-<a href="https://www.linkedin.com/in/ber-arthur/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:arthurbernardpereira@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+**LLM Development & Tooling**  
+`Supervised Fine-Tuning (SFT)` · `RLHF` · `Prompt Engineering` · `Model Evaluation` · `Annotation QA`  
+Models: `Qwen` · `LLaMA` · `Mistral` · `GPT-family`
+
+**Languages & Frameworks**  
+`Python` · `JavaScript` · `TypeScript` · `React.js` · `Next.js` · `Node.js` · `FastAPI` · `Spring Boot`, `Solidity`
+
+**DevOps & Cloud Infrastructure**  
+`Docker` · `Kubernetes` · `Google Cloud Platform` · `AWS (EC2, S3, Lambda)` · `Vercel` · `CI/CD Pipelines`
+
+**Databases & Analytics**  
+`PostgreSQL` · `MongoDB` · `MySQL` · `Realtime Dashboards` · `Data Labeling Pipelines`
+
+---
+
+## Career Highlights
+
+- **Scale AI / Outlier.ai** — Advanced contributor to supervised LLM tuning and RLHF datasets.  
+- **ArtEsfera** — Founder of an AI-native platform for the cultural sector, applying frontier ML to real-world creative problems.  
+- **Lune Amour** — Architected a scalable full-stack ticketing system with robust integrations and low-latency APIs.  
+- **Bios** — Designed and maintained QA pipelines for AI training data and ML dashboards.  
+
+---
+
+## Languages
+
+- **Portuguese**: Native  
+- **English**: Advanced (Professional fluency in technical communication, documentation, and remote collaboration)
+
+---
+
+## Contact
+
+- 📫 [arthurbernardpereira@gmail.com](mailto:arthurbernardpereira@gmail.com)  
+- 🌐 [linkedin.com/in/ber-arthur](https://linkedin.com/in/Daedaluzz)  
+- 💻 [github.com/Daedaluzz](https://github.com/Daedaluzz)
